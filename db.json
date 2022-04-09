@@ -49,8 +49,7 @@
             "cost": 50
         }
     ],
-
     "cart": [],
-    "currentItem": null,
+    "currentItem": 34,
     "currentBalance": 250
 }
