@@ -48,5 +48,9 @@
             "name": "Живучка ползучая",
             "cost": 50
         }
-    ]
+    ],
+
+    "cart": [],
+    "currentItem": null,
+    "currentBalance": 250
 }
