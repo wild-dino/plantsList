@@ -49,8 +49,8 @@
             "cost": 50
         }
     ],
-    "cart": [],
+    "cart": [11, 22, 22],
     "currentItem": 34,
     "currentBalance": 250,
-    "ddd" : 22
+    "ddsdd" : 22
 }
