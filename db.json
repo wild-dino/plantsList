@@ -1,31 +1,56 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "Post 1"
-      },
-      {
-        "id": 2,
-        "title": "Post 2"
-      },
-      {
-        "id": 3,
-        "title": "Post 3"
-      }
+    "plantsList": [
+        {
+            "id": 1,
+            "image": "boyarishnik.png",
+            "name": "Боярышник",
+            "cost": 250
+        },
+        {
+            "id": 2,
+            "image": "gimolost.png",
+            "name": "Жимолость",
+            "cost": 280
+        },
+        {
+            "id": 3,
+            "image": "rose.png",
+            "name": "Роза",
+            "cost": 300
+        },
+        {
+            "id": 4,
+            "image": "jivuchka.png",
+            "name": "Живучка ползучая",
+            "cost": 50
+        },
+        {
+            "id": 5,
+            "image": "boyarishnik.png",
+            "name": "Боярышник",
+            "cost": 250
+        },
+        {
+            "id": 6,
+            "image": "gimolost.png",
+            "name": "Жимолость",
+            "cost": 280
+        },
+        {
+            "id": 7,
+            "image": "rose.png",
+            "name": "Роза",
+            "cost": 300
+        },
+        {
+            "id": 8,
+            "image": "jivuchka.png",
+            "name": "Живучка ползучая",
+            "cost": 50
+        }
     ],
-    "comments": [
-      {
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-      },
-      {
-        "id": 2,
-        "body": "some comment",
-        "postId": 1
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+
+    "cart": [],
+    "currentItem": null,
+    "currentBalance": 250
+}
