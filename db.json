@@ -49,8 +49,12 @@
             "cost": 50
         }
     ],
-    "cart": [11, 22, 22],
-    "currentItem": 34,
-    "currentBalance": 250,
-    "ddsdd" : 22
+    "cart": [{
+        "id": 8,
+        "image": "jivuchka.png",
+        "name": "Живучка ползучая",
+        "cost": 50
+    }],
+    "currentItem": null,
+    "currentBalance": 250
 }
