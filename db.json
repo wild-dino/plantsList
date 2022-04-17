@@ -26,27 +26,87 @@
         },
         {
             "id": 5,
-            "image": "boyarishnik.png",
-            "name": "Боярышник",
-            "cost": 250
+            "image": "zemlyanika.jpg",
+            "name": "Земляника плодовая",
+            "cost": 190
         },
         {
             "id": 6,
-            "image": "gimolost.png",
-            "name": "Жимолость",
-            "cost": 280
+            "image": "malina.jpg",
+            "name": "Малина",
+            "cost": 210
         },
         {
             "id": 7,
-            "image": "rose.png",
-            "name": "Роза",
-            "cost": 300
+            "image": "yablonya.jpg",
+            "name": "Яблоня",
+            "cost": 310
         },
         {
             "id": 8,
-            "image": "jivuchka.png",
-            "name": "Живучка ползучая",
-            "cost": 50
+            "image": "krizhovnik.jpg",
+            "name": "Крыжовник красный",
+            "cost": 190
+        },
+        {
+            "id": 9,
+            "image": "kryzhovnik-malahit.jpg",
+            "name": "Крыжовник Малахит",
+            "cost": 190
+        },
+        {
+            "id": 10,
+            "image": "vishnya-turgenevskaya.jpg",
+            "name": "Вишня Тургеневская",
+            "cost": 550
+        },
+        {
+            "id": 11,
+            "image": "yablonya-kaskad.jpg",
+            "name": "Яблоня Каскад",
+            "cost": 600
+        },
+        {
+            "id": 12,
+            "image": "myata.jpg",
+            "name": "Мята перечная",
+            "cost": 100
+        },
+        {
+            "id": 13,
+            "image": "astra-kustovaya.jpg",
+            "name": "Астра кустовая",
+            "cost": 290
+        },
+        {
+            "id": 14,
+            "image": "shalfei.jpg",
+            "name": "Шалфей",
+            "cost": 340
+        },
+        {
+            "id": 15,
+            "image": "lavanda.jpg",
+            "name": "Лаванда",
+            "cost": 400
+        },
+        {
+            "id": 16,
+            "image": "ehinazeya.jpg",
+            "name": "Эхинацея",
+            "cost": 150
+        },
+        {
+            "id": 17,
+            "image": "pion-pink_1.jpg",
+            "name": "Пион",
+            "cost": 850
+        },
+        {
+            "id": 18,
+            "image": "astra.jpg",
+            "name": "Астра",
+            "cost": 290
         }
     ]
 }
